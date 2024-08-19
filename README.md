@@ -1,2 +1,2 @@
 # veriyapilari_istka
-drive ile bağlantı kurma pirnt ile ekrana yazma
+drive ile bağlantı kurma print ile ekrana yazma
